@@ -18,6 +18,7 @@ I'll be modeling BP's climbing gym business. In this I'll be making sure to hit 
 | member last check in | datetime | when the member last checked in |
 
 ## Dimension
+| Column Name | Type | Description |
 | --- | --- | --- |
 | member | int | main dimension table with all inforamtion about the member |
 | location | varchar | gym location |
